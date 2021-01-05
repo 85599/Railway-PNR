@@ -6,8 +6,10 @@ A Python web-scraper for Indian Railways' PNR Status.
 ------------
 * [Requests][1]
   - `pip install requests` 
+  
 * [json][2]
   - `pip install json`
+  
 * [tkinter] [3]
   - `pip Install tkinter`
 
@@ -18,7 +20,7 @@ A Python web-scraper for Indian Railways' PNR Status.
 
 ## License
 
-MIT © [Khushal Jain](http://icyflame.github.io)
+MIT © [Khushal Jain](https://github.com/85599)
 
 
 
